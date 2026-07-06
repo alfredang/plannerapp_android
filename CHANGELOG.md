@@ -24,3 +24,7 @@ Initial release — a native Android mirror of the iOS Tertiary Planner app.
 - **Persistence** — Room database, on-device only.
 - Material 3 / Jetpack Compose UI with the iOS app's indigo brand palette and full
   dark-mode support.
+
+### Play submission
+- Signed AAB built and verified (`app-release.aab`, versionCode 1). Store assets ready in
+  `store/`. Submission to the closed-testing track is pending a Play Console sign-in.
