@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mirrors the iOS app icon: a white rounded checklist card with two checked rows and one
+     pending row, on the indigo brand background (supplied by ic_launcher_background). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- White rounded card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,30 h42 a8,8 0 0 1 8,8 v32 a8,8 0 0 1 -8,8 h-42 a8,8 0 0 1 -8,-8 v-32 a8,8 0 0 1 8,-8 z" />
+
+    <!-- Row 1: checked circle + line -->
+    <path
+        android:fillColor="#565AE6"
+        android:pathData="M39,40 m-4.5,0 a4.5,4.5 0 1 0 9,0 a4.5,4.5 0 1 0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M36.6,40.1 L38.4,41.9 L41.6,38.2" />
+    <path
+        android:fillColor="#B0B3BC"
+        android:pathData="M48,38 h24 a2.2,2.2 0 0 1 0,4.4 h-24 a2.2,2.2 0 0 1 0,-4.4 z" />
+
+    <!-- Row 2: checked circle + line -->
+    <path
+        android:fillColor="#565AE6"
+        android:pathData="M39,54 m-4.5,0 a4.5,4.5 0 1 0 9,0 a4.5,4.5 0 1 0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M36.6,54.1 L38.4,55.9 L41.6,52.2" />
+    <path
+        android:fillColor="#B0B3BC"
+        android:pathData="M48,52 h24 a2.2,2.2 0 0 1 0,4.4 h-24 a2.2,2.2 0 0 1 0,-4.4 z" />
+
+    <!-- Row 3: unchecked circle + lighter line -->
+    <path
+        android:fillColor="#C9CBD3"
+        android:pathData="M39,68 m-4.5,0 a4.5,4.5 0 1 0 9,0 a4.5,4.5 0 1 0 -9,0" />
+    <path
+        android:fillColor="#DDDEE4"
+        android:pathData="M48,66 h24 a2.2,2.2 0 0 1 0,4.4 h-24 a2.2,2.2 0 0 1 0,-4.4 z" />
+</vector>

@@ -1,0 +1,17 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+.DS_Store
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Release signing secrets — never commit
+keystore/
+keystore.properties
+
+# Play Console session artifacts
+.playwright-mcp/
