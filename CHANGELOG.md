@@ -26,5 +26,7 @@ Initial release — a native Android mirror of the iOS Tertiary Planner app.
   dark-mode support.
 
 ### Play submission
-- Signed AAB built and verified (`app-release.aab`, versionCode 1). Store assets ready in
-  `store/`. Submission to the closed-testing track is pending a Play Console sign-in.
+- Submitted for review on 2026-07-07: release **1 (1.0)** on the **Closed testing – Alpha**
+  track, testers = "All Testers" email list (19 users), country = Singapore. All 10 App
+  content declarations actioned (no ads, no data collection, IARC rating Everyone/3+),
+  category Productivity, contact email set. Status: changes in review.
