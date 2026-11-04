@@ -9,6 +9,11 @@ This is the Android mirror of the
 [Tertiary Planner iOS app](https://apps.apple.com/app/tertiary-planner/id6785397240),
 rebuilt natively with Jetpack Compose and Material 3.
 
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it%20now-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.tertiaryplannerapp)
+![Target SDK](https://img.shields.io/badge/target%20SDK-36-3DDC84?logo=android&logoColor=white)
+
+**[Get Tertiary Planner on Google Play →](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.tertiaryplannerapp)** · package `com.tertiaryinfotech.tertiaryplannerapp`
+
 <p align="center">
   <img src="store/screen-assistant.png" alt="Assistant chat" width="24%">
   <img src="store/screen-planner.png" alt="Planner list" width="24%">
