@@ -1,5 +1,7 @@
 # Tertiary Planner — AI To-Do & Planner for Android
 
+<p><a href="https://play.google.com/store/apps/details?id=com.tertiaryinfotech.tertiaryplannerapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"></a></p>
+
 A native Android app for managing **to-dos and appointments by voice or touch**. Speak
 naturally — *"Lunch with Sam tomorrow at 1pm"* — and on-device intelligence turns it into a
 scheduled appointment; *"Buy groceries"* becomes a to-do. Appointments appear in a built-in
